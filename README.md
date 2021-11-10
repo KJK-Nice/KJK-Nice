@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KJK-Nice
 - 👀 I’m interested in web development, blockchain, engineering
-- 🌱 I’m currently learning Javascript, Typescript, DevOps, CI/CD, English
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Web3, Software architecture
 - 📫 How to reach me @niceusap on twitter
 
 <!---
